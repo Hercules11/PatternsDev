@@ -1,0 +1,3 @@
+// Streaming rendering allows you to start streaming components as soon as they’re ready, without risking a slower FCP and TTI due to components that might take longer to generate on the server.
+
+// Components can be hydrated as soon as they’re streamed to the client, since we no longer have to wait for all JavaScript to load to start hydrating and can start interacting with the app before all components have been hydrated.

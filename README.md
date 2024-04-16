@@ -1,0 +1,1 @@
+前端开发的一些常用模式，来自：https://www.patterns.dev/
